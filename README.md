@@ -1,26 +1,25 @@
-# Welcome , I'm Abdulrahman Mohamed 👋
+# Welcome, I'm Abdulrahman Mohamed 👋
 
-I'm a Computer Science and Artificial Intelligence student at Beni Suef University, passionate about programming and solving technical challenges. I'm always learning new technologies to improve my skills and broaden my horizons.
+I'm a Computer Science and Artificial Intelligence student at Beni Suef University, deeply passionate about programming and solving complex technical challenges. I'm continuously learning new technologies to enhance my skills and broaden my expertise in the field of software development.
 
 ## 🧑‍💻 Skills
-- **Programming Languages**: C++, JavaScript, python , java
+- **Programming Languages**: C++, JavaScript, Python, Java
 - **Technologies**: Node.js, Express.js, Mongoose, MongoDB, Git, GitHub
-- **Tools**: Visual studio code, Cloudinary, GitHub Actions
-- **UI/UX Design**: EJS
+- **Tools**: Visual Studio Code, Cloudinary, GitHub Actions, Postman
+- **UI/UX Design**: EJS, HTML, CSS, Bootstrap
 
 ## 🔥 Projects
-- [Restaurant API](https://github.com/AbdelrahmanMahmmed/Restaurant-Api): An API built for managing a restaurant's operations, including handling Items , Menu , Branch , Staff , Orders , Customer , Review , Offers , Tables , Reservations , Compliers , Billings , suppliers and interactions.
+- [Restaurant API](https://github.com/AbdelrahmanMahmmed/Restaurant-Api): An advanced API designed for managing a restaurant’s operations, including handling menu items, orders, customer reviews, reservations, billing, and much more.
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/abdelrahman2mahmmed/)
-- [Email](abdelrahmanmahmmed29@gmail.com)
+- [Email](mailto:abdelrahmanmahmmed29@gmail.com)
 
 ## 💻 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanMahmmed&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMahmmed&layout=compact&theme=radical)
-
 
 ## 🚀 Technologies & Tools
 
@@ -30,7 +29,9 @@ I'm a Computer Science and Artificial Intelligence student at Beni Suef Universi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 🌱 Currently Learning
-- Advanced web development frameworks
-- Advanced Database
+- Advanced Web Development Frameworks (React, Vue.js)
+- Advanced Database Management (SQL, NoSQL)
+- Cloud computing and serverless architecture
+
 ## 🚀 Fun Fact
-I love tackling coding challenges and competing in programming contests, like ECPC, where I reached the finals of the Egyptian competition!
+I love tackling coding challenges and competing in programming contests. I’ve reached the finals of the Egyptian ECPC competition, where I demonstrated my problem-solving and algorithmic skills in real-time coding environments.
