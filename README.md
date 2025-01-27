@@ -11,6 +11,8 @@ I'm a Computer Science and Artificial Intelligence student at Beni Suef Universi
 ## 🔥 Projects
 - [Restaurant API](https://github.com/AbdelrahmanMahmmed/Restaurant-Api): An advanced API designed for managing a restaurant’s operations, including handling menu items, orders, customer reviews, reservations, billing, and much more.
 
+- [Authentication-Authorization-Nodejs-Expressjs-Mogodb](https://github.com/AbdelrahmanMahmmed/Authentication-Authorization-Nodejs-Expressjs-Mogodb): It is an API for creating and logging the user into everything by the admin, and I forgot the password and other features
+
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/abdelrahman2mahmmed/)
 - [Email](mailto:abdelrahmanmahmmed29@gmail.com)
