@@ -12,7 +12,7 @@ I'm a Computer Science and Artificial Intelligence student at Beni Suef Universi
 - [Restaurant API](https://github.com/AbdelrahmanMahmmed/Restaurant-Api): An advanced API designed for managing a restaurant’s operations, including handling menu items, orders, customer reviews, reservations, billing, and much more.
 
 - [Authentication-Authorization-Nodejs-Expressjs-Mogodb](https://github.com/AbdelrahmanMahmmed/Authentication-Authorization-Nodejs-Expressjs-Mogodb): It is an API for creating and logging the user into everything by the admin, and I forgot the password and other features
-- 
+  
 - [Bazaryo](https://github.com/AbdelrahmanMahmmed/Bazaryo): is an advanced e-commerce platform built with Node.js, offering seamless user experience with features like user registration, profile management, product and category management, wishlist, cart, and reviews. It includes API documentation using Swagger for easy testing and interaction, and is deployed on Heroku for smooth accessibility.
 
 ## 📫 How to Reach Me
