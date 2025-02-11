@@ -1,28 +1,41 @@
-<h1 align="center">Welcome 👋, I'm Abdelrahman Mahmmed</h1>
-<h3 align="center">I'm Backend developer Nodesjs from Egypt</h3>
+# Welcome, I'm Abdulrahman Mohamed 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahmanmahmmed" alt="abdelrahmanmahmmed" /></a> </p>
+I'm a Computer Science and Artificial Intelligence student at Beni Suef University, deeply passionate about programming and solving complex technical challenges. I'm continuously learning new technologies to enhance my skills and broaden my expertise in the field of software development.
 
-- 🔭 I’m currently working on **hotel-api**
+## 🧑‍💻 Skills
+- **Programming Languages**: C++, JavaScript, Python, Java
+- **Technologies**: Node.js, Express.js, Mongoose, MongoDB, Git, GitHub
+- **Tools**: Visual Studio Code, Cloudinary, GitHub Actions, Postman
+- **UI/UX Design**: EJS, HTML, CSS, Bootstrap
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbdelrahmanMahmmed](https://github.com/AbdelrahmanMahmmed)
+## 🔥 Projects
+- [Restaurant API](https://github.com/AbdelrahmanMahmmed/Restaurant-Api): An advanced API designed for managing a restaurant’s operations, including handling menu items, orders, customer reviews, reservations, billing, and much more.
 
-- 💬 Ask me about **Nodejs , ExpressJs , Mongodb**
+- [Authentication-Authorization-Nodejs-Expressjs-Mogodb](https://github.com/AbdelrahmanMahmmed/Authentication-Authorization-Nodejs-Expressjs-Mogodb): It is an API for creating and logging the user into everything by the admin, and I forgot the password and other features
+  
+- [Bazaryo](https://github.com/AbdelrahmanMahmmed/Bazaryo): is an advanced e-commerce platform built with Node.js, offering seamless user experience with features like user registration, profile management, product and category management, wishlist, cart, and reviews. It includes API documentation using Swagger for easy testing and interaction, and is deployed on Heroku for smooth accessibility.
 
-- 📫 How to reach me **abdelrahmanmahmmed29@gmail.com**
+## 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman2mahmmed/)
+- [Email](mailto:abdelrahmanmahmmed29@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DTBDpEkAjWH0M7swa25GR0UpvdTt41Js/view?usp=drive_link](https://drive.google.com/file/d/1DTBDpEkAjWH0M7swa25GR0UpvdTt41Js/view?usp=drive_link)
+## 💻 GitHub Stats
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdelrahman2mahmmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman2mahmmed" height="30" width="40" /></a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanMahmmed&show_icons=true&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMahmmed&layout=compact&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanmahmmed&show_icons=true&locale=en&layout=compact" alt="abdelrahmanmahmmed" /></p>
+## 🚀 Technologies & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanmahmmed&show_icons=true&locale=en" alt="abdelrahmanmahmmed" /></p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanmahmmed&" alt="abdelrahmanmahmmed" /></p>
+## 🌱 Currently Learning
+- Advanced Web Development Frameworks (React, Vue.js)
+- Advanced Database Management (SQL, NoSQL)
+- Cloud computing and serverless architecture
+
+## 🚀 Fun Fact
+I love tackling coding challenges and competing in programming contests. I’ve reached the finals of the Egyptian ECPC competition, where I demonstrated my problem-solving and algorithmic skills in real-time coding environments.
