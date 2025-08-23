@@ -82,7 +82,7 @@
   <a href="https://t.me/AbdulrahmanMahmmed" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:abdulrahmanmuhammad703@gmail.com">
+  <a href="mailto:abdelrahmanmahmmed29@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
