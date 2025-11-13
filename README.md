@@ -1,95 +1,21 @@
-<!-- Header Section -->
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
-  <h1>Hey there, I'm <span style="color:#FF5733">Abdelrahman Mahmmed</span></h1>
-  <h3>Backend Developer | Tech Enthusiast | From Egypt</h3>
-</div>
+# 💫 About Me:
+🔭 I’m currently working on<br>Scalable backend systems using Node.js, TypeScript, and Express.<br><br>👯 I’m looking to collaborate on<br>Microservices and event-driven backend projects.<br><br>🤝 I’m looking for help with<br>Advanced distributed systems and CI/CD best practices.<br><br>🌱 I’m currently learning<br>Microservices architecture and modern backend design patterns.<br><br>💬 Ask me about<br>Authentication, API design, Node.js best practices, and backend architecture.<br><br>⚡ Fun fact<br>Breaking monoliths into microservices feels like building Lego sets — chaotic but fun. 😄
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahmanmahmmed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrahmanmahmmed29@gmail.com) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbdelrahmanMahmmed&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbdelrahmanMahmmed&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMahmmed&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbdelrahmanMahmmed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AbdelrahmanMahmmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+Express+%7C+NestJS;Databases+%7C+MongoDB+%7C+PostgreSQL;Always+learning+new+things" alt="Typing SVG" />
-</p>
-
----
-### 👨‍💻 About Me
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-
-<table>
-  <tr>
-    <td><b style="color:#FF5733;">Current Focus</b></td>
-    <td>Building secure & scalable <span style="color:#3498DB;">backend systems</span> with <span style="color:#2ECC71;">Node.js</span> & <span style="color:#2ECC71;">Express/NestJS</span></td>
-  </tr>
-  <tr>
-    <td><b style="color:#FF5733;">Databases Expertise</b></td>
-    <td><span style="color:#9B59B6;">MongoDB</span>, <span style="color:#9B59B6;">PostgreSQL</span>, <span style="color:#9B59B6;">MySQL</span> – with strong knowledge in <span style="color:#E67E22;">schema design</span> & <span style="color:#E67E22;">optimization</span></td>
-  </tr>
-  <tr>
-    <td><b style="color:#FF5733;">Exploring</b></td>
-    <td><span style="color:#1ABC9C;">Docker</span>, <span style="color:#1ABC9C;">Cloud deployments</span>, and <span style="color:#1ABC9C;">Microservices architecture</span></td>
-  </tr>
-  <tr>
-    <td><b style="color:#FF5733;">Strengths</b></td>
-    <td>Problem-solving, <span style="color:#2ECC71;">clean code principles</span>, and designing <span style="color:#3498DB;">REST APIs</span> that perform under load</td>
-  </tr>
-  <tr>
-    <td><b style="color:#FF5733;">Learning Journey</b></td>
-    <td>Diving deeper into <span style="color:#F1C40F;">system design</span> & <span style="color:#F1C40F;">distributed systems</span></td>
-  </tr>
-  <tr>
-    <td><b style="color:#FF5733;">Fun Fact</b></td>
-    <td>Enjoys <span style="color:#E74C3C;">competitive programming</span> & tackling complex <span style="color:#E74C3C;">algorithmic problems</span></td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,nodejs,express,nest,mongodb,postgres,mysql,docker,git,github" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanMahmmed&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMahmmed&layout=compact&theme=radical" height="180" />
-</p>
-
----
-
-### 🚀 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdelrahmanMahmmed&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
-
----
-
-### 🐍 Snake Eating My Contributions
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbdelrahmanMahmmed/AbdelrahmanMahmmed/output/snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-### 🌍 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdelrahman2mahmmed/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://t.me/AbdulrahmanMahmmed" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-%232CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:abdelrahmanmahmmed29@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🚀 Visitor Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanMahmmed&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
