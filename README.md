@@ -1,62 +1,21 @@
-# Abdelrahman Mahmmed
-## Backend Engineer | Node.js & NestJS Specialist
+# 💫 About Me:
+🔭 I’m currently working on<br>Scalable backend systems using Node.js, TypeScript, and Express.<br><br>👯 I’m looking to collaborate on<br>Microservices and event-driven backend projects.<br><br>🤝 I’m looking for help with<br>Advanced distributed systems and CI/CD best practices.<br><br>🌱 I’m currently learning<br>Microservices architecture and modern backend design patterns.<br><br>💬 Ask me about<br>Authentication, API design, Node.js best practices, and backend architecture.<br><br>⚡ Fun fact<br>Breaking monoliths into microservices feels like building Lego sets — chaotic but fun. 😄
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelrahmanmahmmed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrahmanmahmmed29@gmail.com) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbdelrahmanMahmmed&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbdelrahmanMahmmed&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMahmmed&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbdelrahmanMahmmed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AbdelrahmanMahmmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Professional Profile
-Computer Science Student (Class of 2027) focused on developing scalable, distributed backend systems. Specialized in architecting modular applications with **NestJS**, leveraging **TypeScript** for type-safety, and implementing **Clean Architecture** principles to ensure maintainable codebases.
-
----
-
-### Core Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,express,mongodb,postgres,redis,docker,git,github,linux,postman" />
-</p>
-
----
-
-### Technical Stack & Ecosystem
-
-| Category | Technologies | Visuals |
-| :--- | :--- | :--- |
-| **Backend** | NestJS, Node.js, Express.js | <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> |
-| **Languages** | TypeScript, JavaScript, Python | <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
-| **Databases** | PostgreSQL, MongoDB, Redis | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> |
-| **DevOps** | Docker, GitHub Actions | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> |
-
----
-
-### Engineering Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanMahmmed&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=ffffff&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanMahmmed&theme=transparent&hide_border=true&title_color=3178C6&text_color=ffffff&layout=compact" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanMahmmed&theme=transparent&hide_border=true&stroke=3178C6&ring=3178C6&fire=3178C6&currStreakLabel=3178C6" />
-</p>
-
----
-
-### GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanMahmmed&theme=algolia&no-frame=true&column=4" />
-</p>
-
----
-
-### Connect
-<p align="left">
-  <a href="https://linkedin.com/in/abdelrahmanmahmmed" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abdelrahmanmahmmed29@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AbdelrahmanMahmmed&icon=0&color=3178C6" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
